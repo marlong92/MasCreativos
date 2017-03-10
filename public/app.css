@@ -2530,11 +2530,11 @@ nav ul a span.badge {
 
 @media only screen and (min-width: 993px) {
   .container {
-    width: 70%; } }
+    width: 76%; } }
 
 .container .row {
-  margin-left: -0.75rem;
-  margin-right: -0.75rem; }
+  margin-left: 0;
+  margin-right: 0; }
 
 .section {
   padding-top: 1rem;
@@ -6450,7 +6450,7 @@ body {
   vertical-align: middle; }
 
 .iphone {
-  max-width: 90%; }
+  max-width: 113%; }
 
 .site-footer {
   text-transform: uppercase;
